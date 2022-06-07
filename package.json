@@ -1,0 +1,16 @@
+{
+  "name": "app-budget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Quentin MEUNIER | QMdev",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^19.0.1",
+    "nedb": "^1.8.0"
+  }
+}

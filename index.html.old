@@ -1,0 +1,6 @@
+<h1>test</h1>
+
+<p>
+  Chrome<span id="chrome-version"></span> Node<span id="node-version"></span>
+  Electron<span id="electron-version"></span>
+</p>
